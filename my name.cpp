@@ -2,8 +2,7 @@
 
 using namespace std;
 
-int main (){
-	cout<<"Hello world!!";
-	cout<<2018<<endl;
+int main(){
+	cout<<"Seada Seman"<<endl;
 	return 0;
 }
