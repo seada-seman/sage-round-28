@@ -1,5 +1,5 @@
-##Sage institute
+Sage institute
 
-#computer programing
+computer programing
 
 git,github,c++
